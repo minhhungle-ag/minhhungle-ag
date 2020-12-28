@@ -1,6 +1,6 @@
 ![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-# Minh Hung Le - Passionate Web Developer, Frontend Trainer
+# Minh Hung Le - HTML, CSS, JAVACRIPT, REACT JS DEVELOPER
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
