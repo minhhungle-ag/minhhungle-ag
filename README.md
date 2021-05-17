@@ -15,6 +15,7 @@
 - `Owner` of website [https://www.ezfrontend.com/](https://www.ezfrontend.com/) where I can share my favorite topics via blog posts. -->
 
 - Independence Palace - Cabinet Office : <a href="https://dinhdoclap.gov.vn/">https://dinhdoclap.gov.vn/</a>
+- Easy Frontend:  <a href="https://www.ezfrontend.com/">https://www.ezfrontend.com/</a>
 <!--
 
 <!-- ## Projects for teaching
