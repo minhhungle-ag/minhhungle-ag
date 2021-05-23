@@ -20,16 +20,14 @@
 - Kimwy Company.
 <!--
 
-<!-- ## Projects for teaching
+## Projects
 
-- Tic tac toe game: https://github.com/paulnguyen-mn/js-tic-tac-toe
-- Color matching game: https://github.com/paulnguyen-mn/color-matching-game
-- JS todo app: https://github.com/paulnguyen-mn/js-todo-app
-- Post UI: https://github.com/paulnguyen-mn/posts-ui
-- Post API: https://github.com/paulnguyen-mn/posts-api -->
+- Post UI: https://github.com/haless132/post-ui
+- Food-blog: https://github.com/haless132/food-blog
 
-<!-- ## Projects for sharing
 
-- use-scroll-progress hook: https://github.com/paulnguyen-mn/use-scroll-progress
-- ReactJS App: https://github.com/paulnguyen-mn/redux-photo-app -->
+## Projects for sharing
+
+- html-tree-analysis: https://www.ezfrontend.com/docs/phan-tich-cay-html-trang-live-recover
+
 
