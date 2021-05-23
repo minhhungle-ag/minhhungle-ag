@@ -17,10 +17,9 @@
 
 ## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="150" src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/180758082_301332238213033_3382288207606731980_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Vz5EKrHvcHcAX_e8hmj&_nc_ht=scontent.fhan2-3.fna&oh=3741bee3ebe5b0379b64f2e6517e3dc0&oe=60CECD3C"></a>
 
-- Independence Palace - Cabinet Office : <a href="https://dinhdoclap.gov.vn/">https://dinhdoclap.gov.vn/</a>
 - Easy Frontend: <a href="https://www.ezfrontend.com/">https://www.ezfrontend.com/</a> 
 - Kimwy Company.
-
+- Independence Palace - Cabinet Office : <a href="https://dinhdoclap.gov.vn/">https://dinhdoclap.gov.vn/</a>
 
 ## Projects
 
@@ -29,10 +28,7 @@
 - invoice-smarttax: https://invoice.smarttax.vn/
 - invoice-esmart: https://invoice.esmart.vn/
 
-
 ## Projects for sharing
 
 - html-tree-analysis: https://www.ezfrontend.com/docs/phan-tich-cay-html-trang-live-recover
 - how-to-make-carousel: https://github.com/haless132/carousel-banner
-
-
