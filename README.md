@@ -29,5 +29,6 @@
 ## Projects for sharing
 
 - html-tree-analysis: https://www.ezfrontend.com/docs/phan-tich-cay-html-trang-live-recover
+- how-to-make-carousel: https://github.com/haless132/carousel-banner
 
 
