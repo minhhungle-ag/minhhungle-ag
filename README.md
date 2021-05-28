@@ -7,7 +7,7 @@
 - Enjoy working with HTML, CSS, JAVASCRIP, REACT JS ❤
 - Like footbal, listen music, read books, animals(dog).
 
-# My mentor
+# Instructor
 
 - Mr HauNguyen: https://github.com/paulnguyen-mn   
   - `SSE` at fram^: [https://wearefram.com/](https://wearefram.com/)
