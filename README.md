@@ -4,7 +4,7 @@
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
-- Enjoy working with HTML, CSS, JAVASCRIP, REACT JS ❤
+- Enjoy working with REACTJS ❤
 - Like footbal, listen music, read books, animals(dog).
 
 # Instructor
