@@ -3,6 +3,8 @@
 # Minh Hung Le - FONTEND DEVELOPER
 HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT - SAGA
 
+# About
+
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with REACTJS ❤
