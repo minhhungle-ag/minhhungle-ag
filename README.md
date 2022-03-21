@@ -19,7 +19,7 @@
 - `Frontend Developer` at NamiQ AI: <a href="https://www.namiq.ai/">https://www.namiq.ai/</a>
 - `Collaborator` of Easy Frontend: <a href="https://www.ezfrontend.com/">https://www.ezfrontend.com/</a> 
 - `Freelancer FE` at Kimwy Company.
-- `security officer` at Independence Palace - Cabinet Office : <a href="https://dinhdoclap.gov.vn/">https://dinhdoclap.gov.vn/</a>
+- `Independence Palace - Cabinet Office` : <a href="https://dinhdoclap.gov.vn/">https://dinhdoclap.gov.vn/</a>
 
 ## Projects
 
