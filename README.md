@@ -24,7 +24,8 @@
 ## Projects
 
 - Post UI: https://github.com/haless132/post-ui
-- Food-blog: https://github.com/haless132/food-blog
+- Food-blog: https://github.com/minhhungle-ag/food-blog-v2
+- Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
 - invoice-smarttax: https://invoice.smarttax.vn/
 - invoice-esmart: https://invoice.esmart.vn/
 
