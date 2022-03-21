@@ -15,7 +15,7 @@
   - `Owner` of a `more than 5k subs` Youtube Channel sharing about Frontend: `Easy Frontend` [https://youtube.com/easyfrontend](https://youtube.com/easyfrontend?sub_confirmation=1)
   - `Owner` of website [https://www.ezfrontend.com/](https://www.ezfrontend.com/) where I can share my favorite topics via blog posts.
 
-## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="150" src="https://scontent.fhan2-3.fna.fbcdn.net/v/t1.6435-9/180758082_301332238213033_3382288207606731980_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Vz5EKrHvcHcAX_e8hmj&_nc_ht=scontent.fhan2-3.fna&oh=3741bee3ebe5b0379b64f2e6517e3dc0&oe=60CECD3C"></a>
+## Working 
 - `Frontend Developer` at NamiQ AI: <a href="https://www.namiq.ai/">https://www.namiq.ai/</a>
 - `Collaborator` of Easy Frontend: <a href="https://www.ezfrontend.com/">https://www.ezfrontend.com/</a> 
 - `Freelancer FE` at Kimwy Company.
