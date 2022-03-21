@@ -1,6 +1,6 @@
 ![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-# Minh Hung Le - HTML, CSS, JAVACRIPT, REACT JS DEVELOPER
+# Minh Hung Le - FONTEND DEVELOPER (HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT - SAGA)
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
