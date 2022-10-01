@@ -25,11 +25,12 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 
 ## Projects
 
-- Post UI: https://github.com/haless132/post-ui
+- Post UI: https://github.com/minhhungle-ag/js-post-ui
 - Food-blog: https://github.com/minhhungle-ag/food-blog-v2
 - Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
 - invoice-smarttax: https://invoice.smarttax.vn/
 - invoice-esmart: https://invoice.esmart.vn/
+- js-post-ui demo: https://js-post-ui-easy-frontend.vercel.app/?_page=1&_limit=6
 
 ## Projects for sharing
 
