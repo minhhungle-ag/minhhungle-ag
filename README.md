@@ -38,7 +38,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 ## Demo
 
 - Post UI: [https://js-post-ui-easy-frontend.vercel.app/](https://js-post-ui-easy-frontend.vercel.app/)
-- Food-blog: [https://github.com/minhhungle-ag/food-blog-v2](https://food-blog-do-an.vercel.app/)
+- Food-blog: [https://food-blog-do-an.vercel.app/](https://food-blog-do-an.vercel.app/)
 - Luxe-hotel: [https://luxehotel.vercel.app/](https://luxehotel.vercel.app/)
 - invoice-smarttax: [https://invoice.smarttax.vn/](https://invoice.smarttax.vn/)
 - invoice-esmart: [https://invoice.esmart.vn/](https://invoice.esmart.vn/)
