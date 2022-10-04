@@ -18,7 +18,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
   - `Owner` of a `more than 5k subs` Youtube Channel sharing about Frontend: `Easy Frontend` [https://youtube.com/easyfrontend](https://youtube.com/easyfrontend?sub_confirmation=1)
   - `Owner` of website [https://www.ezfrontend.com/](https://www.ezfrontend.com/) where I can share my favorite topics via blog posts.
   
- - Mr NguyenXuanHung: https://github.com/hungxnguyen118 
+- Mr NguyenXuanHung: https://github.com/hungxnguyen118 
   - `Technical Lead` at NashTech: [https://wearefram.com/](https://nashtechglobal.com/)
   - `Instructor` at Green Academy: [view it on Green Academy website](https://www.greenacademy.edu.vn/)
 
