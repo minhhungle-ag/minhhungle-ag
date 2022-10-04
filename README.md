@@ -33,11 +33,18 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 - Post UI: https://github.com/minhhungle-ag/js-post-ui
 - Food-blog: https://github.com/minhhungle-ag/food-blog-v2
 - Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
-- js-post-ui demo: https://js-post-ui-easy-frontend.vercel.app/?_page=1&_limit=6
-- invoice-smarttax: https://invoice.smarttax.vn/
-- invoice-esmart: https://invoice.esmart.vn/
-- econnect: https://admin.econnect.vn/
-- econnect: https://member.econnect.vn/
+
+
+## Demo
+
+- Post UI: [https://js-post-ui-easy-frontend.vercel.app/](https://js-post-ui-easy-frontend.vercel.app/)
+- Food-blog: [https://github.com/minhhungle-ag/food-blog-v2](https://food-blog-do-an.vercel.app/)
+- Luxe-hotel: [https://luxehotel.vercel.app/](https://luxehotel.vercel.app/)
+- invoice-smarttax: [https://invoice.smarttax.vn/](https://invoice.smarttax.vn/)
+- invoice-esmart: [https://invoice.esmart.vn/](https://invoice.esmart.vn/)
+- econnect: [https://admin.econnect.vn/](https://admin.econnect.vn/)
+- econnect: [https://member.econnect.vn/](https://member.econnect.vn/)
+
 
 ## Projects for sharing
 
