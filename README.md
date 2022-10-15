@@ -33,6 +33,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 - Post UI: https://github.com/minhhungle-ag/js-post-ui
 - Food-blog: https://github.com/minhhungle-ag/food-blog-v2
 - Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
+- Post UI server: https://github.com/minhhungle-ag/posts-api-server (CRUD, auth, upload image with nodejs, express, mongodb)
 
 
 ## Demo
