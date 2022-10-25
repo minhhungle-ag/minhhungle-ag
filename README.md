@@ -34,6 +34,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 - Food-blog: https://github.com/minhhungle-ag/food-blog-v2
 - Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
 - Post UI server: https://github.com/minhhungle-ag/posts-api-server (CRUD, auth, upload image with nodejs, express, mongodb)
+- Post UI server: https://github.com/minhhungle-ag/heroku-post-ui-server (CRUD, auth, upload image with nodejs, express, deloy heroku)
 - React Post UI: https://github.com/minhhungle-ag/react-post-ui
 
 
@@ -47,6 +48,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 - econnect: [https://admin.econnect.vn/](https://admin.econnect.vn/)
 - econnect: [https://member.econnect.vn/](https://member.econnect.vn/)
 - React Post UI: [https://react-post-ui.vercel.app/blog](https://react-post-ui.vercel.app/blog)
+- API Post UI: [https://heroku-post-ui-api.herokuapp.com/api/posts](https://heroku-post-ui-api.herokuapp.com/api/posts)
 
 
 ## Projects for sharing
