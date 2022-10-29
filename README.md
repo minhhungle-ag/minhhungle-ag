@@ -48,7 +48,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 - econnect: [https://admin.econnect.vn/](https://admin.econnect.vn/)
 - econnect: [https://member.econnect.vn/](https://member.econnect.vn/)
 - React Post UI: [https://react-post-ui.vercel.app/blog](https://react-post-ui.vercel.app/blog)
-- API Post UI: [https://heroku-post-ui-api.herokuapp.com/api](https://heroku-post-ui-api.herokuapp.com/api)(/post, /upload, /user, /comments)
+- API Post UI: [https://heroku-post-ui-api.herokuapp.com/api](https://heroku-post-ui-api.herokuapp.com/api) (/post, /upload, /user, /comments)
 
 
 ## Projects for sharing
