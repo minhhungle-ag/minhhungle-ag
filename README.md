@@ -22,9 +22,6 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
   - `Technical Lead` at NashTech: [https://nashtechglobal.com/](https://nashtechglobal.com/)
   - `Instructor` at Green Academy: [view it on Green Academy website](https://www.greenacademy.edu.vn/)
 
-- Mr DangVietTuan: https://github.com/dangviettuan
-  - `HEAD OF DIGITAL APP` at NamiQ: [https://www.namiq.ai/](https://www.namiq.ai/)
-
 ## Working 
 - `Frontend Developer` at NamiQ AI: <a href="https://www.namiq.ai/">https://www.namiq.ai/</a>
 - `Collaborator` of Easy Frontend: <a href="https://www.ezfrontend.com/">https://www.ezfrontend.com/</a> 
