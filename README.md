@@ -30,16 +30,20 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 
 ## Projects
 
+- Serene Leaf: https://github.com/minhhungle-ag/tea-shop
+- Serene Leaf server: https://github.com/minhhungle-ag/tea-server (nodejs, express, mongodb)
 - Post UI: https://github.com/minhhungle-ag/js-post-ui
 - Food-blog: https://github.com/minhhungle-ag/food-blog-v2
 - Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
 - Post UI server: https://github.com/minhhungle-ag/posts-api-server (CRUD, auth, upload image with nodejs, express, mongodb)
 - Post UI server: https://github.com/minhhungle-ag/heroku-post-ui-server (CRUD, auth, upload image with nodejs, express, deloy heroku)
 - React Post UI: https://github.com/minhhungle-ag/react-post-ui
-
+https://tea-server-production.up.railway.app/api
 
 ## Demo
 
+- Serene Leaf: [https://serene-leaf.vercel.app](https://serene-leaf.vercel.app)
+- Serene Leaf API: [https://tea-server-production.up.railway.app/api](https://tea-server-production.up.railway.app/api)
 - Post UI: [https://js-post-ui-easy-frontend.vercel.app/](https://js-post-ui-easy-frontend.vercel.app/)
 - Food-blog: [https://food-blog-do-an.vercel.app/](https://food-blog-do-an.vercel.app/)
 - Luxe-hotel: [https://luxehotel.vercel.app/](https://luxehotel.vercel.app/)
