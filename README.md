@@ -37,8 +37,7 @@ HTML, CSS, BOOTSTRAP 5, JAVACRIPT, TYPESCRIPT, REACT JS, NEXT JS, REDUX TOOLKIT 
 - Luxe-hotel: https://github.com/minhhungle-ag/hotel-bootstrap
 - Post UI server: https://github.com/minhhungle-ag/posts-api-server (CRUD, auth, upload image with nodejs, express, mongodb)
 - Post UI server: https://github.com/minhhungle-ag/heroku-post-ui-server (CRUD, auth, upload image with nodejs, express, deloy heroku)
-- React Post UI: https://github.com/minhhungle-ag/react-post-ui
-https://tea-server-production.up.railway.app/api
+- React Post UI: https://github.com/minhhungle-ag/react-post-ui (https://tea-server-production.up.railway.app/api)
 
 ## Demo
 
